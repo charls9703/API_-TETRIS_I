@@ -69,3 +69,11 @@ http://142.44.246.92:3000/drop
 
 http://142.44.246.92:3000/move
 
+
+## Autores ✒️
+
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Carlos O Bastidas D** - *Trabajo Inicial* - (https://github.com/charls9703)
+* **David R Reina H** - *Documentación* - 
+* **July P Sotelo J** - *Documentación* - 
