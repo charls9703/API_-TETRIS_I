@@ -3,15 +3,25 @@ Esta es la dirrecion donde se encuentra la documentacion de esta api http://142.
 para ejecutar esta api se ncesita descarga node.js e instalar por emdio de npm los paquetes express y morgan 
  ## intalacion
  -primero instalamos node.js del siguiente link https://nodejs.org/es/ despues de isntalarlo
+ 
  -descomprimimos la carpeta que descargamos de este repositorio e ingresamos a ella en la carpeta src abra un archivo de nombre figura .js que sera nuestra aplicacion para poder ejecutarla,
+ 
  -nos dirigimos al simbolo del sistema con la siguiente linea de comando:
+ 
  -inicio+r 
+ 
 -este comando nos llevara a simbolo del sistema una ves hay digitamos:
+
  -npm i express morgan
+ 
  -despues en el mismo simbolo del sistema nos dirigimos al interior de la carpeta src.
+ 
  -D:\Users\cobd\Desktop\Api_I\src>
+ 
 -la anterior linea muestra un ejemplo de como ingresar y una vea alli digitamos
+
 -node figura.js start y emepezara a ejecutar el api 
+
 
 ## prueba
 {
