@@ -58,9 +58,14 @@ para ejecutar esta api se ncesita descarga node.js e instalar por emdio de npm l
 }
 
 con el dato de arriba en formato json se puede probar utilizando la aplicacion postman y utlizando sentencias post y get.
+
 o utilizando las siguientes urls y postman para enviarle datos
+
 http://142.44.246.92:3000/matriz
+
 http://142.44.246.92:3000/rotate
+
 http://142.44.246.92:3000/drop
+
 http://142.44.246.92:3000/move
 
